@@ -17,3 +17,6 @@ by discussing the discrepancies between the actual implementation
 of the secure development lifecycle and expectations. As a result,
 we eventually came up with a technique to fix the present SSDLC
 model’s security problem.
+
+# Conclusion
+
