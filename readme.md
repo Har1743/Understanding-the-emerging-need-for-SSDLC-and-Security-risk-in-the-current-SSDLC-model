@@ -20,3 +20,20 @@ model’s security problem.
 
 # Conclusion
 
+We used passive methodologies to examine the significance and
+growing demand for Secure Software development lifecycles in
+a variety of enterprises throughout the globe. With the help of
+machine learning libraries like Seaborn and Matplotlib as well as the
+Log4j - 0-day vulnerability example, it is vital to reduce the impact
+and necessity of SDLC. We made sure to underline the SDLC’s
+constraints and the discrepancy between reality and expectations
+checks in addition to the graphics. It also covered how organizations
+adopted the SDLC early on and how they still use it now, as well
+as the difficulties they face in doing so. We studied the current
+SDLC models and found a new idea of security that is lacking in
+businesses. We will make a theoretical attempt to put this strategy
+into practice to increase the security of the organization, but none
+has yet done so using the SDLC paradigm. We also talked about
+the lack of emphasis given to security issues in most organizations
+and the challenges businesses and developers face when putting
+the SDLC into practice
