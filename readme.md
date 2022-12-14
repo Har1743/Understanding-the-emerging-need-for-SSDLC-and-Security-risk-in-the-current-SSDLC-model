@@ -1,7 +1,10 @@
 # Abstract
 
-The Secure Software Development Life Cycle (SSDLC) is an organized procedure that tries to produce high-quality, inexpensive software as quickly as feasible. Over time, other SDLC models have been created, from the waterfall and iterative to, more recently, the agile model. With each new model, deployment has tended to happen more quickly and frequently. Secure SSDLC has added security
-testing at each software development stage, from design to development, to deployment and beyond. You must make sure that you
+The Secure Software Development Life Cycle (SSDLC) is an organized procedure that tries to produce high-quality, 
+inexpensive software as quickly as feasible. Over time, other SDLC models have been created, from the waterfall 
+and iterative to, more recently, the agile model. With each new model, deployment has tended to happen more quickly 
+and frequently. Secure SSDLC has added security testing at each software development stage, from design to development, 
+to deployment and beyond. You must make sure that you
 are developing with potential vulnerabilities in mind at every stage
 since anyone might probably have access to your source code. So
 due to this Secure Software Development Life Cycle is so essential
