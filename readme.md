@@ -12,7 +12,7 @@ and showcasing the emerging need.Despite the benefits of utilizing
 Secure SDLC, organizations continue to have security challenges. A
 pressing need for a secure development lifecycle has resulted from
 this due to non-adaption of SSDLC and improper security practices
-implementation in the current SSDLC. With this in mind, we researched the factors contributing to the growing demand followed
+implementation in the current SSDLC. With this in mind, we researched the factors contributing to the growing demand followed
 by discussing the discrepancies between the actual implementation
 of the secure development lifecycle and expectations. As a result,
 we eventually came up with a technique to fix the present SSDLC
