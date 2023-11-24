@@ -1,4 +1,4 @@
-# Survey Paper on Understanding the emerging need for SSDLC and Security risk in the current SSDLC model
+# Research Paper on Understanding the emerging need for SSDLC and Security risk in the current SSDLC model
 
 
 # Abstract
